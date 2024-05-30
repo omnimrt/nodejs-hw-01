@@ -1,9 +1,22 @@
 [
   null,
   null,
-  null,
-  null,
-  null,
-  null,
-  null
+  {
+    "name": "Dr. Darnell Kuhic",
+    "phone": "264-720-5244 x4070",
+    "email": "Emory.Dickinson@gmail.com",
+    "job": "Investor Infrastructure Specialist"
+  },
+  {
+    "name": "Angel Mueller",
+    "phone": "740-546-3601 x7778",
+    "email": "Allison84@hotmail.com",
+    "job": "Global Integration Strategist"
+  },
+  {
+    "name": "Lillian Terry",
+    "phone": "(888) 590-6284 x74587",
+    "email": "Ramiro_Kihn@hotmail.com",
+    "job": "Legacy Response Planner"
+  }
 ]
